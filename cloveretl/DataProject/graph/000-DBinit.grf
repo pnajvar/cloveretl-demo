@@ -6,4 +6,7 @@
 </GraphParameters>
 <Dictionary/>
 </Global>
+<Phase number="0">
+<Node guiName="FlatFileReader" guiX="458" guiY="345" id="FLAT_FILE_READER" type="FLAT_FILE_READER"/>
+</Phase>
 </Graph>
