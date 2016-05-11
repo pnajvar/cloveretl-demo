@@ -1,4 +1,2 @@
 id|name
 1|Socks
-2|Towels
-
