@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph author="Pavel" created="Wed May 11 07:32:02 CEST 2016" guiVersion="4.2.0.M1" id="1462944831128" licenseCode="CLP1DJAVLI36399945BY" name="helloworld" showComponentDetails="true">
+<Global>
+<GraphParameters>
+<GraphParameterFile fileURL="workspace.prm"/>
+</GraphParameters>
+<Dictionary/>
+</Global>
+</Graph>
